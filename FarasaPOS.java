@@ -30,19 +30,14 @@ public class FarasaPOS {
     /**
      * @param args the command line arguments
      */
-
+fsdfds
+fsdfds
     public static Farasa farasaSegmenter = null;
     public static FarasaPOSTagger farasaPOSTagger = null;
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException, InterruptedException, Exception {  
 
-        
-        int i=0;
-        String arg;
-        int folder=1000;
-        int start=21;
-        int end=31;
-        int args_flag = 0; // correct set of arguments
+ 
    
 
         System.err.print("Initializing the system ....");
